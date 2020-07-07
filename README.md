@@ -1,2 +1,6 @@
 # conquer-template
-This is a bootstrap template I redesigned with just HTML, CSS and JavaScript. No Bootstrap!!!
+// This was originally designed with Bootstrap by https://www.free-css.com/.
+I redesigned it with raw HTML, CSS and JavaScript.
+
+## Link to original design:
+- https://www.free-css.com/assets/files/free-css-templates/preview/page196/conquer/
